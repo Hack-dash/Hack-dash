@@ -9,7 +9,7 @@
 
 
 ### Connect With Me
-[<img align = "left" src = "https://i.pinimg.com/564x/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.jphttps://cdn.freebiesupply.com/images/large/2x/instagram-icon-white-on-black-circle.pngg" width = 22 height = 22> </img>](https://www.instagram.com/paaarthhsharma/?hl=en)
+[<img align = "left" src = "https://cdn.freebiesupply.com/images/large/2x/instagram-icon-white-on-black-circle.png" dth = 22 height = 22> </img>](https://www.instagram.com/paaarthhsharma/?hl=en)
 [<img align = "left" src = "https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/goodreads-512.png" width = 22 height = 22> </img>](https://www.goodreads.com/user/show/64007460-parth-sharma)
 [<img align = "left" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width = 22 height = 22> </img>](https://www.linkedin.com/in/parth-sharma-6748a8155/)
 [<img align = "left" src = "https://www.iconsdb.com/icons/preview/black/spotify-xxl.png" width = 22 height = 22> </img>](https://open.spotify.com/user/techp911?si=ba4HO9nZRdq9kBJo62b1ZQ)
