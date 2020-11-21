@@ -12,7 +12,7 @@
 <img src = "https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width = 22 height = 22> </img>](https://www.linkedin.com/in/parth-sharma-6748a8155/)
 <img src = "https://www.flaticon.com/svg/static/icons/svg/49/49097.svg" width = 22 height = 22> </img>](https://open.spotify.com/user/techp911?si=ba4HO9nZRdq9kBJo62b1ZQ)
 
-
+### Tools and Languages
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
