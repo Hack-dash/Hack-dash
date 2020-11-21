@@ -7,7 +7,7 @@
 
 
 ### Connect With Me
-[<img src = "d"> </img>](https://www.instagram.com/paaarthhsharma/?hl=en)
+[<img src = "https://www.flaticon.com/svg/static/icons/svg/174/174855.svg"> </img>](https://www.instagram.com/paaarthhsharma/?hl=en)
 [Goodreads](https://www.goodreads.com/user/show/64007460-parth-sharma)
 [Linkedin](https://www.linkedin.com/in/parth-sharma-6748a8155/)
 [Spotify](https://open.spotify.com/user/techp911?si=ba4HO9nZRdq9kBJo62b1ZQ)
