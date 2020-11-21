@@ -13,7 +13,7 @@
 [<img src = "https://www.flaticon.com/svg/static/icons/svg/49/49097.svg" width = 22 height = 22> </img>](https://open.spotify.com/user/techp911?si=ba4HO9nZRdq9kBJo62b1ZQ)
 
 
-### Technologies I work with!
+### Languages and Tools
 <img src = "https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" width = 22  height = 22 > </img>
 <img src = "https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" width = 22  height = 22 > </img>
 <img src = "https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" width = 22  height = 22 > </img>
