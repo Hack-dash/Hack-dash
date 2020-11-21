@@ -14,3 +14,4 @@
 
 
 ### Technologies I work with!
+<img src = "https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" > width = 22  height = 22</img>
