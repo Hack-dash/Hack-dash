@@ -13,7 +13,7 @@
 [<img align = "left" src = "https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/goodreads-512.png" width = 22 height = 22> </img>](https://www.goodreads.com/user/show/64007460-parth-sharma)
 [<img align = "left" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width = 22 height = 22> </img>](https://www.linkedin.com/in/parth-sharma-6748a8155/)
 [<img align = "left" src = "https://www.iconsdb.com/icons/preview/black/spotify-xxl.png" width = 22 height = 22> </img>](https://open.spotify.com/user/techp911?si=ba4HO9nZRdq9kBJo62b1ZQ)
-<img align ="left" width = 33 height = 33 src = "https://www.shareicon.net/data/128x128/2016/07/13/606301_black_4096x4096.png">
+<img align ="left" width = 22 height = 22 src = "https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/quora-512.png">
 <br> <br>
 
 
