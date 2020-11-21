@@ -13,15 +13,4 @@
 [<img src = "https://www.flaticon.com/svg/static/icons/svg/49/49097.svg" width = 22 height = 22> </img>](https://open.spotify.com/user/techp911?si=ba4HO9nZRdq9kBJo62b1ZQ)
 
 
-### Languages and Tools
-<img src = "https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" width = 22  height = 22 > </img>
-<img src = "https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" width = 22  height = 22 > </img>
-<img src = "https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" width = 22  height = 22 > </img>
-<img src = "https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" width = 22  height = 22 > </img>
-<img src = "https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" width = 22  height = 22 > </img>
-<img src = "https://img.icons8.com/color/452/mongodb.png" width = 22  height = 22 > </img>
-<img src = "https://www.flaticon.com/svg/static/icons/svg/919/919825.svg" width = 22  height = 22 > </img>
-<img src = "https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width = 22  height = 22 > </img>
-<img src = "https://www.flaticon.com/svg/static/icons/svg/174/174881.svg" height = 22 width = 22> </img>
-<img src = "https://www.flaticon.com/svg/static/icons/svg/2111/2111423.svg" height = 22 width = 22> </img>
-
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
