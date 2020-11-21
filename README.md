@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-### I am Parth Sharma. **Student**||**Developer**!
+### I am Parth Sharma. **Student** | **Developer**!
 
 - 🔭 I’m currently exploring the MERN Stack
 - 🎓 Currently Studying Computer Applications at Manipal University Jaipur 
@@ -33,6 +33,5 @@
 
 <br> <br>
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing"  width="350" />](https://open.spotify.com/user/techp911?si=ZHBdSIcPRdyLjCtO07n6dg)
+
