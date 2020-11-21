@@ -1,9 +1,24 @@
-### Hi there 👋
+## Hi there 👋 
 
-<!--
-**Hack-dash/Hack-dash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Parth Sharma. Freelance Web Developer!
 
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently exploring the MERN Stack
+- 🎓Currently Studying Computer Applications at Manipal University Jaipur 
+
+
+### Connect With Me
+[Instagram](https://www.instagram.com/paaarthhsharma/?hl=en)
+[Goodreads](https://www.goodreads.com/user/show/64007460-parth-sharma)
+[Linkedin](https://www.linkedin.com/in/parth-sharma-6748a8155/)
+[Spotify](https://open.spotify.com/user/techp911?si=ba4HO9nZRdq9kBJo62b1ZQ)
+
+
+### Technologies I work with!
+Python
+C
+HTML
+CSS
+Javascript
+Git 
+Flutter
 
