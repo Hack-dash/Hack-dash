@@ -14,4 +14,13 @@
 
 
 ### Technologies I work with!
-<img src = "https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" > width = 22  height = 22</img>
+<img src = "https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" width = 22  height = 22 > </img>
+<img src = "https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" width = 22  height = 22 > </img>
+<img src = "https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" width = 22  height = 22 > </img>
+<img src = "https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" width = 22  height = 22 > </img>
+<img src = "https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" width = 22  height = 22 > </img>
+<img src = "https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" width = 22  height = 22 > </img>
+<img src = "https://img.icons8.com/color/452/mongodb.png" width = 22  height = 22 > </img>
+<img src = "https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width = 22  height = 22 > </img>
+
+<img src = "https://www.flaticon.com/svg/static/icons/svg/3522/3522288.svg" width = 22  height = 22 > </img>
