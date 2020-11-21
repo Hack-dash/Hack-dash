@@ -1,9 +1,11 @@
 ## Hi there 👋 
 
-### I am Parth Sharma. Freelance Web Developer!
+### I am Parth Sharma. **Student**||**Developer**!
 
 - 🔭 I’m currently exploring the MERN Stack
-- 🎓Currently Studying Computer Applications at Manipal University Jaipur 
+- 🎓 Currently Studying Computer Applications at Manipal University Jaipur 
+- 🎯 2021 Goals: Contribute More to Open Source
+- 📕 Learning almost everything I find interesting
 
 
 ### Connect With Me
