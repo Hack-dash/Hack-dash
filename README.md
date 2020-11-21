@@ -8,9 +8,9 @@
 
 ### Connect With Me
 [<img src = "https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width = 22 height = 22> </img>](https://www.instagram.com/paaarthhsharma/?hl=en)
-[Goodreads](https://www.goodreads.com/user/show/64007460-parth-sharma)
-[Linkedin](https://www.linkedin.com/in/parth-sharma-6748a8155/)
-[Spotify](https://open.spotify.com/user/techp911?si=ba4HO9nZRdq9kBJo62b1ZQ)
+[<img src = "https://www.flaticon.com/svg/static/icons/svg/2111/2111443.svg" width = 22 height = 22> </img>](https://www.goodreads.com/user/show/64007460-parth-sharma)
+[<img src = "https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width = 22 height = 22> </img>](https://www.linkedin.com/in/parth-sharma-6748a8155/)
+[<img src = "https://www.flaticon.com/svg/static/icons/svg/49/49097.svg" width = 22 height = 22> </img>](https://open.spotify.com/user/techp911?si=ba4HO9nZRdq9kBJo62b1ZQ)
 
 
 ### Technologies I work with!
