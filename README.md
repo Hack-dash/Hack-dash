@@ -2,7 +2,7 @@
 let parth = {
   student: "Manipal Universiy Jaipur",
 
-  code: [Javascript, HTML, CSS, Python, Reactjs, Dart, Flutter, Sass, Git],
+  code: ["Javascript", "HTML", "CSS", "Python", "Reactjs", "Dart", "Flutter", "Sass", "Git"],
 
   tools: [VSCode,Github,Sublime Text,Figma],
 
@@ -15,10 +15,10 @@ let parth = {
     
     
   Goals = [
-  Contribute a lot to opensource , 
-  Get webdev clients , 
-  Read more books , 
-  
+  "Contribute a lot to opensource" , 
+  "Get webdev clients" , 
+  "Read more books" 
+
   ]
     
 };
