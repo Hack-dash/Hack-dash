@@ -2,9 +2,9 @@
 let parth = {
   student: "Manipal Universiy Jaipur",
 
-  code: ["Javascript", "HTML", "CSS", "Python", "Reactjs", "Dart", "Flutter", "Sass", "Git"],
+  code =  ["Javascript", "HTML", "CSS", "Python", "Reactjs", "Dart", "Flutter", "Sass", "Git"],
 
-  tools: [VSCode,Github,Sublime Text,Figma],
+  tools =  ["VSCode","Github","Sublime Text","Figma"]
 
   techCommunities: {
     member: "RandomizeMUJ",
