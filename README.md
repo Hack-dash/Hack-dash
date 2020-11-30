@@ -12,6 +12,15 @@ let parth = {
 
   challenge:
     "I am doing the #100DaysOfCode challenge focused on Front End Web Dev",
+    
+    
+  Goals = [
+  Contribute a lot to opensource , 
+  Get webdev clients , 
+  Read more books , 
+  
+  ]
+    
 };
 
 
